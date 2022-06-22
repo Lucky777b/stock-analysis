@@ -242,6 +242,14 @@
 
   Based on the run time for the original and refactored code, it can be concluded that the refactored code run time was significantly faster than the run times in the original code for the years 2017 and 2018. 
 
+## Summary 
 
+### Pros and Cons of Refactoring Code 
+
+Refactoring code allows one to find multiple ways to try to solve a problem, while still producing the same end result. Based on the fact that there are multiple ways, it is not hard to understand that there are going to be ways that are better than others. Refactoring can help make our codes more organized, and easier to read for another person trying to understand or use that code for a project they might be working on. Obviously, they would have to edit certain variables or tickers for their specific for-loops, but if the code is easy to read and understand, then they can make quick changes and run the macro without producing an error. Refactoring code can also be helpful in software development and improvement, or make programming faster for products on the market that want to add more functions/features without disrupting the quality of the original program. A disadvantage of refactoring code could result in processes that might not be more efficient, or might not run well on other systems or applications that do not use the same test codes. 
+
+### The Advantages of Refactoring the Original VBA Script
+
+An advantage of refactoring the original VBA script, was that the macro run time decreased substantially. The benefit of this advantage would come to light if I was running a code that contained huge amounts of data or had to be ran for a much higher amount of tickers. This would also be an advantage if I created a macro that contained hundreds of lines of code. In this challenge, refactoring the code saved me 10ths of a second, but for a much bigger code or macro, the amount of time saved could accumulate into saving minutes to hours, or days even. Another advantage to refactoring the original VBA script would be that it allowed me to see that there are multiple ways that I can write a script and still get the same result.
 
 
